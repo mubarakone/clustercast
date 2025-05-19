@@ -1,7 +1,7 @@
+![image](https://github.com/user-attachments/assets/f07cdee0-dc3f-49e5-8da0-eae3083ef90e)
+
 # Project Name
 ClusterCast (working title)
-![image](https://github.com/user-attachments/assets/bfb38761-60d7-4228-b94d-0dbe9730cf3b)
-
 
 ## Project Description
 A fully-on-chain, peer-to-peer live-video delivery network.  
